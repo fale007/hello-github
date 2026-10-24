@@ -1,0 +1,19 @@
+﻿# 依赖 / 构建产物
+node_modules/
+dist/
+build/
+*.exe
+
+# 环境与密钥
+.env
+*.pem
+*.key
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
